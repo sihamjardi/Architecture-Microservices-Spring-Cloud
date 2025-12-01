@@ -108,6 +108,18 @@
 <img width="927" height="485" alt="Capture d&#39;écran 2025-12-01 213909" src="https://github.com/user-attachments/assets/e003eaef-3504-48f5-bb56-f9ea6e603b44" />
 
 
+---
+
+## Auteur
+
+Nom : JARDI Siham
+
+Cours : Architecture Microservices : Conception, Déploiement et Orchestration
+
+Date : Decembre 2025
+
+Encadré par : Pr.Mohamed LACHGHAR
+
 
 
 
