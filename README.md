@@ -112,13 +112,11 @@
 
 ## Auteur
 
-Nom : JARDI Siham
+**Nom :** JARDI Siham
+**Cours :** Architecture Microservices : Conception, Déploiement et Orchestration
+**Date :** Decembre 2025
+**Encadré par :** Pr.Mohamed LACHGHAR
 
-Cours : Architecture Microservices : Conception, Déploiement et Orchestration
-
-Date : Decembre 2025
-
-Encadré par : Pr.Mohamed LACHGHAR
 
 
 
