@@ -18,11 +18,18 @@
 
 <img width="884" height="493" alt="Capture d&#39;écran 2025-12-01 093018" src="https://github.com/user-attachments/assets/8b488e76-6708-4df5-bf0b-5e8d3f080c2c" />
 
+**Structure**
+
+<img width="307" height="415" alt="image" src="https://github.com/user-attachments/assets/5b256afd-db5f-40c6-b99c-60ef057b970a" />
+
 **Lancement du serveur Eureka http://localhost:8761/**
 
 <img width="959" height="483" alt="Capture d&#39;écran 2025-12-01 093947" src="https://github.com/user-attachments/assets/d83660d3-427b-4304-89db-09757b04782a" />
 
 <img width="924" height="504" alt="Capture d&#39;écran 2025-12-01 093541" src="https://github.com/user-attachments/assets/a93d1357-5327-426f-be38-2361ac76de61" />
+
+
+
 
 ---
 
@@ -32,6 +39,9 @@
 
 <img width="923" height="498" alt="Capture d&#39;écran 2025-12-01 094000" src="https://github.com/user-attachments/assets/512bbf4b-826a-4d4d-86f1-0575007f06e6" />
 
+**Structure**
+
+<img width="299" height="433" alt="image" src="https://github.com/user-attachments/assets/4d132c6b-997d-4c39-97cc-870fee1ea593" />
 
 **Endpoints:**
 
@@ -60,6 +70,10 @@
 **Spring Initializr “GateWay”**
 
 <img width="927" height="505" alt="Capture d&#39;écran 2025-12-01 094856" src="https://github.com/user-attachments/assets/e47afe3b-39fc-4549-8738-2c85a4f31e43" />
+
+**Structure**
+
+<img width="285" height="424" alt="image" src="https://github.com/user-attachments/assets/9ef33c7f-41b5-40cf-a865-63a149e3dc31" />
 
 **Test**
 
@@ -93,6 +107,10 @@
 
 <img width="924" height="488" alt="Capture d&#39;écran 2025-12-01 123043" src="https://github.com/user-attachments/assets/ccc4049c-b6bd-4ace-b2d9-645375b234c0" />
 
+**Structure**
+
+<img width="278" height="444" alt="image" src="https://github.com/user-attachments/assets/c11c1972-f5a0-414f-af5f-b1b22f5038d0" />
+
 **Architecture Feign et diagramme de classes.**
 
 <img width="1290" height="690" alt="image" src="https://github.com/user-attachments/assets/075dc92f-5083-4f09-8eea-dc4ed58c3286" />
@@ -119,6 +137,7 @@
 **Date :** Decembre 2025
 
 **Encadré par :** Pr.Mohamed LACHGHAR
+
 
 
 
